@@ -1,5 +1,5 @@
-# sheypoor-landing-page
-sheypoor.com landing page with HTML, CSS, JS  Not responsive
+# sheypoor-home-page
+sheypoor.com home page with HTML, CSS, JS  Not responsive
 
 # description 
 
