@@ -14,3 +14,11 @@ some of these challeges were:
 * handle and learn some of the advanced css properties.
 
 when I learned to work with dom manipulation implementing the above challenges were easier to do.
+
+# Live Link
+
+the page is currently live on https://sheypoor-home-page.vercel.app/
+
+# copy-right
+
+this impelentation is just for practice purposes and for non-commercial use
